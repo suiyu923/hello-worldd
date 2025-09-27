@@ -1,6 +1,6 @@
 ## hello-worldd
 # suiyier de logicsim
-sd
+sd:
 1.
 2.ds
 3.df
